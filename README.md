@@ -6,8 +6,8 @@
 - 🌱 Dec 2022: I’m currently learning to get comfortable with git & github, and other CS tools I never had a chance to use in my day job as Backup & Storage Admin.
 - 
 - 💞️ Dec 2022: I just signed up for [adventofcode](https://adventofcode.com)
+- 🌱 Dec 2023: toying around with Python. I made a Sudoku mostly-solver!
 - 
-- 📫 How to reach me ... find me on twitter!
 -
 Important climate science resources:
 -   https://skepticalscience.com  (debunking common anti-climate talking points)
