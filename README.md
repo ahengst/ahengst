@@ -7,8 +7,15 @@
 - 
 - 💞️ Dec 2022: I just signed up for [adventofcode](https://adventofcode.com)
 - 🌱 Dec 2023: toying around with Python. I made a Sudoku mostly-solver!
-- 
+- ✨ Dec 2024: my Python code is still pretty bad, but it works for me! DO NOT learn from me.
 -
+Some tools I'm using in the garage suite utility room:
+-    IotaWatt AC power monitor: https://www.iotawatt.com/
+-    Mosquitto open source MQTT broker: https://mosquitto.org/
+-    InfluxDB time-series database: https://www.influxdata.com/
+-    Grafana for data visualization: https://grafana.com/
+-    LibreOffice https://www.libreoffice.org/
+-    
 Important climate science resources:
 -   https://skepticalscience.com  (debunking common anti-climate talking points)
 -   Facebook group "Global Warming Fact Of The Day"
